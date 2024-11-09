@@ -4,6 +4,7 @@ This project leverages a **Transformer Encoder** model to classify fMRI data bas
 
 The goal of the project is to use a Transformer Encoder model to analyze fMRI data and predict demographic traits, specifically **gender** and **age** groups. By using multi-head attention, the model is able to understand correlations between different brain regions in the fMRI data, improving its ability to learn meaningful patterns.
 
+ 
 ---
 
 ## Project Overview
