@@ -2,6 +2,7 @@
 
 This project applies a Transformer Encoder model to classify fMRI data based on participant demographics. The model combines brain imaging data with participant age features to predict characteristics like gender, with the multi-head attention mechanism capturing complex patterns across brain regions. Hyperparameters are tuned using Optuna to maximize predictive performance.
 
+
 ---
 
 ## Project Overview
